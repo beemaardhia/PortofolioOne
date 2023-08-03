@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/PortfolioOne/static/css/main.70b9f377.css",
-    "main.js": "/PortfolioOne/static/js/main.1bd6c929.js",
-    "static/media/Canva2.png": "/PortfolioOne/static/media/Canva2.46205e4c4861fda270d2.png",
-    "static/media/BlendO.png": "/PortfolioOne/static/media/BlendO.717a3e7737840665fbdc.png",
-    "static/media/BlendD.png": "/PortfolioOne/static/media/BlendD.bf5f42596f8afd658e69.png",
-    "static/media/heroimage.png": "/PortfolioOne/static/media/heroimage.5fd24bc2e68ee3226e53.png",
-    "static/media/Code1.jpg": "/PortfolioOne/static/media/Code1.82d1f8d614910bfce33c.jpg",
-    "static/media/IoT2.jpg": "/PortfolioOne/static/media/IoT2.5fc0dd714060f9f095cb.jpg",
-    "static/media/graphql.png": "/PortfolioOne/static/media/graphql.fc6b9451733c620ceb86.png",
-    "static/media/Canva5.jpg": "/PortfolioOne/static/media/Canva5.cab5966e66246df2e4f0.jpg",
-    "static/media/react.png": "/PortfolioOne/static/media/react.0cf951a69d8e58f83f9d.png",
-    "static/media/nextjs.png": "/PortfolioOne/static/media/nextjs.48ddc8121a0fcb543d64.png",
-    "static/media/github.png": "/PortfolioOne/static/media/github.3b9e32903aa89111875d.png",
-    "static/media/html.png": "/PortfolioOne/static/media/html.2ba4fabc69a89a8f71e6.png",
-    "static/media/tailwind.png": "/PortfolioOne/static/media/tailwind.e47ac876b8d4d0bba47a.png",
-    "static/media/css.png": "/PortfolioOne/static/media/css.69a82c2d9e45c933a9cb.png",
-    "static/media/javascript.png": "/PortfolioOne/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
-    "index.html": "/PortfolioOne/index.html",
-    "main.70b9f377.css.map": "/PortfolioOne/static/css/main.70b9f377.css.map",
-    "main.1bd6c929.js.map": "/PortfolioOne/static/js/main.1bd6c929.js.map"
+    "main.css": "/PortofolioOne/static/css/main.70b9f377.css",
+    "main.js": "/PortofolioOne/static/js/main.3df51f81.js",
+    "static/media/Canva2.png": "/PortofolioOne/static/media/Canva2.46205e4c4861fda270d2.png",
+    "static/media/BlendO.png": "/PortofolioOne/static/media/BlendO.717a3e7737840665fbdc.png",
+    "static/media/BlendD.png": "/PortofolioOne/static/media/BlendD.bf5f42596f8afd658e69.png",
+    "static/media/heroimage.png": "/PortofolioOne/static/media/heroimage.5fd24bc2e68ee3226e53.png",
+    "static/media/Code1.jpg": "/PortofolioOne/static/media/Code1.82d1f8d614910bfce33c.jpg",
+    "static/media/IoT2.jpg": "/PortofolioOne/static/media/IoT2.5fc0dd714060f9f095cb.jpg",
+    "static/media/graphql.png": "/PortofolioOne/static/media/graphql.fc6b9451733c620ceb86.png",
+    "static/media/Canva5.jpg": "/PortofolioOne/static/media/Canva5.cab5966e66246df2e4f0.jpg",
+    "static/media/react.png": "/PortofolioOne/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/nextjs.png": "/PortofolioOne/static/media/nextjs.48ddc8121a0fcb543d64.png",
+    "static/media/github.png": "/PortofolioOne/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/PortofolioOne/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/PortofolioOne/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/PortofolioOne/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/PortofolioOne/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/PortofolioOne/index.html",
+    "main.70b9f377.css.map": "/PortofolioOne/static/css/main.70b9f377.css.map",
+    "main.3df51f81.js.map": "/PortofolioOne/static/js/main.3df51f81.js.map"
   },
   "entrypoints": [
     "static/css/main.70b9f377.css",
-    "static/js/main.1bd6c929.js"
+    "static/js/main.3df51f81.js"
   ]
 }
