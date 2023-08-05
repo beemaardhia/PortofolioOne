@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/PortofolioOne/static/css/main.4e759725.css",
-    "main.js": "/PortofolioOne/static/js/main.bfe75201.js",
+    "main.css": "/PortofolioOne/static/css/main.dccd975e.css",
+    "main.js": "/PortofolioOne/static/js/main.3e26bb48.js",
     "static/media/Canva2.png": "/PortofolioOne/static/media/Canva2.46205e4c4861fda270d2.png",
     "static/media/BlendO.png": "/PortofolioOne/static/media/BlendO.717a3e7737840665fbdc.png",
     "static/media/BlendD.png": "/PortofolioOne/static/media/BlendD.bf5f42596f8afd658e69.png",
@@ -19,11 +19,11 @@
     "static/media/css.png": "/PortofolioOne/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/PortofolioOne/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/PortofolioOne/index.html",
-    "main.4e759725.css.map": "/PortofolioOne/static/css/main.4e759725.css.map",
-    "main.bfe75201.js.map": "/PortofolioOne/static/js/main.bfe75201.js.map"
+    "main.dccd975e.css.map": "/PortofolioOne/static/css/main.dccd975e.css.map",
+    "main.3e26bb48.js.map": "/PortofolioOne/static/js/main.3e26bb48.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e759725.css",
-    "static/js/main.bfe75201.js"
+    "static/css/main.dccd975e.css",
+    "static/js/main.3e26bb48.js"
   ]
 }
