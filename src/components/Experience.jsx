@@ -3,10 +3,15 @@ import html from '../assets/html.png'
 import css from '../assets/css.png'
 import javascript from '../assets/javascript.png'
 import react from '../assets/react.png'
-import nextjs from '../assets/nextjs.png'
-import graphql from '../assets/graphql.png'
+// import nextjs from '../assets/nextjs.png'
+// import graphql from '../assets/graphql.png' 
 import github from '../assets/github.png'
 import tailwind from '../assets/tailwind.png'
+import cpp from '../assets/cpp.png'
+import java from '../assets/java.png'
+import python from '../assets/python.png'
+
+
 
 const Experience = () => {
 
@@ -25,41 +30,50 @@ const Experience = () => {
         },
         {
             id:3,
-            src: javascript,
-            title: 'JavaScript',
-            style: 'shadow-yellow-500',
-        },
-        {
-            id:4,
-            src: react,
-            title: 'React',
-            style: 'shadow-blue-600',
-        },
-        {
-            id:5,
             src: tailwind,
             title: 'TailWind',
             style: 'shadow-sky-400',
+        },        
+        {
+            id:4,
+            src: cpp,
+            title: 'CPP',
+            style: 'shadow-sky-500',
+        },
+        {
+            id:5,
+            src: python,
+            title: 'Python',
+            style: 'shadow-yellow-600',
         },
         {
             id:6,
-            src: nextjs,
-            title: 'Next JS',
-            style: 'shadow-white',
+            src: java,
+            title: 'Java',
+            style: 'shadow-red-400',
         },
         {
             id:7,
-            src: graphql,
-            title: 'GraphQL',
-            style: 'shadow-pink-400',
-        },
+            src: react,
+            title: 'React',
+            style: 'shadow-sky-600',
+        },        
         {
             id:8,
             src: github,
             title: 'GitHub',
             style: 'shadow-gray-400',
         },
+    
+        {
+            id:9,
+            src: javascript,
+            title: 'JavaScript',
+            style: 'shadow-yellow-500',
+        },
     ]
+
+    
   return (
     <div name='experience' 
     className=' bg-gradient-to-b from-gray-800

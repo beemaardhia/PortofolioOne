@@ -11,26 +11,34 @@ const Portfolio = () => {
     const portfolios =[
         {
             id: 1,
-            src: IoTPlantMonitoring
+            title: 'IoT Plant Monitoring',
+            src: IoTPlantMonitoring,
+            href: 'https://www.instagram.com/reel/CvAPG2AJfww/?igshid=MzRlODBiNWFlZA==',
         },
         {
             id: 2,
-            src: Coding
+            title:'Bomb Number Game Code',
+            src: Coding,
+            href: 'https://youtu.be/o8HscELEU5s',
         },
         {
             id: 3,
+            title:'3D Oreo',
             src: Oreo3d
         },
         {
             id: 4,
+            title:'3D Doraemon',
             src: Doraemon3d
         },
         {
             id: 5,
+            title:"PRODUK'S Poster",
             src: DesignRetro
         },
         {
             id: 6,
+            title:'Es Tape Poster',
             src: DesignMini
         },
     ]
@@ -48,16 +56,24 @@ const Portfolio = () => {
                 <div
                 className=' grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-12 sm:px-0 '>
             {
-                portfolios.map(({id, src}) => (
+                portfolios.map(({id, src, href, title}) => (
                 <div
                 key={id} 
                 className=' shadow-md shadow-gray-600 rounded-lg'>
                     <img 
+                    title={title}
                     src={src} alt={src} 
                     className=' rounded-md duration-200 hover:scale-105 ' />
                     <div className=' flex items-center justify-center'>
-                        <button className=' w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105 '>Demo</button>
-                        <button className=' w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105 '>Code</button>
+                        <a href={href}
+                        target=' _blank'>
+                        <button className=' w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105 '>Code</button>    
+                        </a>
+                        <a>
+                        <button className=' w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105 '>Demo</button>    
+                        </a>
+                        
+                        
                     </div>
                 </div>
 

@@ -7,8 +7,8 @@ const About = () => {
 
         <div className=' max-w-screen-lg p-4 mx-auto flex-col justify-center w-full h-full'>
 
-            <div className=' pb-8'>
-                <p className=' text-4xl font-bold inline border-b-4 border-gray-500  '>
+            <div className=' pb-6'>
+                <p  className=' text-4xl font-bold inline border-b-4 border-gray-500  '>
                     About
                     </p>
             </div>
@@ -24,7 +24,7 @@ const About = () => {
 
             <br />
 
-            <p className=' text-xl'>
+            <p className=' text-xl pb-20' >
             Saya dikenal sebagai seorang individu yang serius dalam proses belajar, dan komitmen saya terhadap peningkatan diri terus mendorong saya untuk mencapai hasil yang lebih baik. Saya selalu mengutamakan kualitas dalam setiap proyek yang saya kerjakan, dengan fokus pada inovasi dan nilai jual yang optimal. Saya percaya bahwa dedikasi dan ketekunan saya dalam belajar akan terus membawa kesuksesan di masa depan, dan saya sangat antusias untuk terus mengembangkan kemampuan saya dalam dunia rekayasa perangkat lunak.
 
             </p>
