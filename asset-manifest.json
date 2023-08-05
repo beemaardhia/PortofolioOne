@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PortofolioOne/static/css/main.dccd975e.css",
-    "main.js": "/PortofolioOne/static/js/main.3e26bb48.js",
+    "main.js": "/PortofolioOne/static/js/main.ca8ba574.js",
     "static/media/Canva2.png": "/PortofolioOne/static/media/Canva2.46205e4c4861fda270d2.png",
     "static/media/BlendO.png": "/PortofolioOne/static/media/BlendO.717a3e7737840665fbdc.png",
     "static/media/BlendD.png": "/PortofolioOne/static/media/BlendD.bf5f42596f8afd658e69.png",
@@ -20,10 +20,10 @@
     "static/media/javascript.png": "/PortofolioOne/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/PortofolioOne/index.html",
     "main.dccd975e.css.map": "/PortofolioOne/static/css/main.dccd975e.css.map",
-    "main.3e26bb48.js.map": "/PortofolioOne/static/js/main.3e26bb48.js.map"
+    "main.ca8ba574.js.map": "/PortofolioOne/static/js/main.ca8ba574.js.map"
   },
   "entrypoints": [
     "static/css/main.dccd975e.css",
-    "static/js/main.3e26bb48.js"
+    "static/js/main.ca8ba574.js"
   ]
 }
